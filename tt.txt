@@ -5,3 +5,12 @@ tqdm
 git config --local http.sslVerify false
 
 https://slim.tistory.com/9
+
+https://homeproject.tistory.com/9
+
+
+모든 https repository 연결시 ssl 검증 끔
+git config --global http.sslVerify false
+
+https repository 연결시 ssl 검증 끔
+git config http.sslVerify false
