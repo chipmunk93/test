@@ -1,0 +1,7 @@
+import pandas as pd
+import psycopg2
+tqdm
+
+git config --local http.sslVerify false
+
+https://slim.tistory.com/9
